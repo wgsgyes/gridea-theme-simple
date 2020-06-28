@@ -7,7 +7,7 @@
       "name": "sidebarWidth",
       "label": "菜单栏宽度",
       "group": "布局",
-      "value": "320px",
+      "value": "32px",
       "type": "input",
       "note": "可填像素类型（如：320px）或百分比类型（如：38.2%）"
     },
